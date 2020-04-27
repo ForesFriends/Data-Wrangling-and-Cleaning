@@ -48,3 +48,7 @@ Wikipedia site, such that those can be embedded into the website.
 
 • Data was made in order to satisfy the 3NF to fit the Relational Database. Such that there
 won't be any duplicates and many to many relationships across the tables.
+
+
+![Diagram](C:/Users/V.PAVAN/Desktop/FIT120 IE/reports/Data Flow Diagram.png)
+Format: ![Alt Text](url)
